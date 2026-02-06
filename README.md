@@ -2,6 +2,8 @@
 
 This repository is an educational project for building and evaluating AI research assistants.
 
+> Transparency note: this repository is a retrospective educational reconstruction. Historical author and committer dates organize the intended February–April 2026 learning sequence and are not a contemporaneous activity record.
+
 The project focuses on:
 
 - Scientific abstract analysis
@@ -14,6 +16,9 @@ The project focuses on:
 - Citation coverage metrics
 - Benchmark execution
 - Streamlit dashboard prototypes
+- Versioned evaluation contracts and scientific-document ingestion
+- Hybrid retrieval, reranking, claim graphs, and citation verification
+- Calibrated grading, benchmark orchestration, robustness, and security tests
 
 
 ## Project goals
@@ -40,6 +45,8 @@ The goal is to build a practical framework that can test whether an AI research 
 07_experiments/
 docs/
 tests/
+research_eval/
+docs/implementation_journal/
 ```
 
 ## Setup
@@ -86,5 +93,12 @@ Run dashboard:
 
 ```bash
 streamlit run 06_streamlit_dashboard/dashboard.py
+```
+
+Run the dependency-light evaluation framework tests:
+
+```bash
+python -m unittest discover -s tests
+python -m compileall -q research_eval
 ```
 
