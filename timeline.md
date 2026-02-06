@@ -62,3 +62,15 @@ This file describes the retrospective learning structure of the project.
 - System design documentation
 - Limitations
 - Roadmap
+# Advanced Evaluation Track — February to April 2026
+
+This is a retrospective educational reconstruction. Historical commit dates organize the intended study sequence and do not assert that the work was performed on those dates.
+
+- 6 February — contracts, datasets, schemas, and reproducibility foundations
+- 18 February — scientific-document ingestion and source coordinates
+- 27 February — retrieval, reranking, grounded answers, and citations
+- 10 March — atomic claims, evidence links, and claim graphs
+- 24 March — deterministic metrics and calibrated model judging
+- 4 April — benchmark orchestration and experiment tracking
+- 16 April — robustness, security, and agent-trace evaluation
+- 28 April — dashboard, CI, documentation, and integration
