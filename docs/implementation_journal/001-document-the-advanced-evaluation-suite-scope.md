@@ -12,4 +12,3 @@ Document the advanced evaluation suite scope as an auditable component of the re
 - Inputs and outputs use versioned, provider-neutral contracts.
 - Failures preserve enough context for case-level diagnosis.
 - No benchmark or model-quality result is claimed without recorded evidence.
-

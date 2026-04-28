@@ -12,4 +12,3 @@ Add confidence aware abstention as an auditable component of the research-assist
 - Inputs and outputs use versioned, provider-neutral contracts.
 - Failures preserve enough context for case-level diagnosis.
 - No benchmark or model-quality result is claimed without recorded evidence.
-

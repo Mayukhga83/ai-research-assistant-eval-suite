@@ -1,0 +1,11 @@
+[project]
+name = "ai-research-assistant-eval-suite"
+version = "0.2.0"
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 120
+target-version = "py311"

@@ -1,10 +1,10 @@
-# Publish red team baseline and failure taxonomy
+# Integrate end to end evaluation demo
 
-**Reconstructed study session:** 2026-04-16
+**Reconstructed study session:** 2026-04-28
 
 ## Purpose
 
-Publish red team baseline and failure taxonomy as an auditable component of the research-assistant evaluation framework.
+Integrate end to end evaluation demo as an auditable component of the research-assistant evaluation framework.
 
 ## Acceptance criteria
 
