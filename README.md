@@ -15,7 +15,6 @@ The project focuses on:
 - Benchmark execution
 - Streamlit dashboard prototypes
 
-Transparency note: this repository is organized retrospectively as an educational archive. Some commits may use historical dates to structure the learning timeline. It should not be interpreted as a real-time work log.
 
 ## Project goals
 
@@ -89,6 +88,3 @@ Run dashboard:
 streamlit run 06_streamlit_dashboard/dashboard.py
 ```
 
-## Suggested CV description
-
-Built an AI research-assistant evaluation suite for abstract understanding, claim extraction, citation-grounded QA, faithfulness scoring, hallucination-risk checks, and benchmark comparison.
